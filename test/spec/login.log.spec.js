@@ -7,8 +7,8 @@ describe('Login Feature', () => {
         .post ("/authentications") //Endpoint
         .send ({"email": "kelontong.murah@gmail.com",
         "password": "SUKAJAYA10",}) //Payload
-        console.log ((await response).status);
-        console.log ((await response).body);
+        //console.log ((await response).status);
+        //console.log ((await response).body);
 
         //Assertion
         expect ((await response).status).to.equal(201);
@@ -21,8 +21,8 @@ describe('Login Feature', () => {
             "email": "kelontong.murah@gmail.com",
             "password": "SUKAJAYA10123",
         })
-        console.log((await response).status);
-        console.log((await response).body);
+        //console.log((await response).status);
+        //console.log((await response).body);
 
         //ASSERTION
         expect((await response).status).to.equal(401);
