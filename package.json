@@ -1,0 +1,27 @@
+{
+  "name": "qa-automation-47",
+  "version": "1.0.0",
+  "description": "Ini Tugas API Automation Test dengan Mocha, Supertest, Jest",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --"
+  },
+  "repository": {
+    "type": "git",
+    "url": "qa-automation-47"
+  },
+  "keywords": [
+    "API",
+    "Automation"
+  ],
+  "author": "galangekw",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}

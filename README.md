@@ -15,7 +15,7 @@ Evidence        :
 
 - API CRUD (Create, Read, Update, Delete)
 
-//GET
-//PUT
-//PUSH
-//DELETE
+- //GET
+- //PUT
+- //PUSH
+- //DELETE
