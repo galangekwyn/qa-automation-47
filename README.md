@@ -2,7 +2,7 @@
 
  *SanberCode Task - Tugas API*
  
- - Framewor       = Supertest, Mocha, Chai
+ - Framework      = Supertest, Mocha, Chai
  
  - Cara Install   :
     Supertest   = > npm install supertets
@@ -13,7 +13,7 @@ Cara Running    :
 
 Evidence        :
 
-- API CRUD (Create, Read, Update, Delete)
+API CRUD (Create, Read, Update, Delete)
 
 - //GET
 - //PUT
