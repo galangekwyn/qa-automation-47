@@ -2,7 +2,7 @@
 
  *SanberCode Task - Tugas API*
  
- - Framewor       = Supertest, Mocha, Chai
+ - Framework      = Supertest, Mocha, Chai
  
  - Cara Install   :
     Supertest   = > npm install supertets
